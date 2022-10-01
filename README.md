@@ -11,7 +11,9 @@
 - 🧑🏻‍💻 Currently trying to learn TypeScript.
 - 🙏🏼 Hoping one day to learn a third language! 
 
+
 ## 📫 How to reach me:
+[<img src="https://raw.githubusercontent.com/BryanBH/BryanBH/main/socials/Gmail-Logo.wine.svg" height="40em" align="center" alt="Email Bryan Benjumea" title="Email Bryan Benjumea"/>](mailto:bryanbenjumea@gmail.com)
 [<img src="https://raw.githubusercontent.com/BryanBH/BryanBH/main/socials/LinkedIn-Icon-Logo.wine.svg" height="40em" align="center" alt="Follow BryanBH on LinkedIn" title="Follow Bryan on LinkedIn"/>](https://www.linkedin.com/in/bryan-benjumea/)
 [<img src="https://raw.githubusercontent.com/BryanBH/BryanBH/main/socials/Instagram-Logo.wine.svg" height="40em" align="center" alt="Follow BryanBH on Instagram" title="Follow Bryan on Instagram"/>](https://www.instagram.com/bryan_benjumea/)
 <!--
