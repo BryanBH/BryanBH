@@ -1,5 +1,19 @@
-### Hi there 👋
+# Hi there 👋
 
+
+## :book: About Me!
+- 🎓 WIT Class of 2022
+- 💻 Full Stack Web Developer 
+- 🤟🏼 Bilingual 🇨🇴 🇺🇸
+
+## 📈 Current Activities 
+- Open for Hire! 
+- 🧑🏻‍💻 Currently trying to learn TypeScript.
+- 🙏🏼 Hoping one day to learn a third language! 
+
+## 📫 How to reach me:
+[<img src="https://raw.githubusercontent.com/BryanBH/BryanBH/master/socials/linkedin.svg" height="40em" align="center" alt="Follow BryanBH on LinkedIn" title="Follow Raymo111 on LinkedIn"/>](https://www.linkedin.com/in/bryan-benjumea/)
+[<img src="https://raw.githubusercontent.com/BryanBH/BryanBH/master/socials/instagram.svg" height="40em" align="center" alt="Follow BryanBH on Instagram" title="Follow Bryan on Instagram"/>](https://www.instagram.com/bryan_benjumea/)
 <!--
 **BryanBH/BryanBH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
