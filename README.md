@@ -8,7 +8,7 @@
 
 ## 📈 Current Activities 
 - Open for Hire! 
-- 🧑🏻‍💻 Currently trying to learn TypeScript.
+- 🧑🏻‍💻 Currently learning TypeScript.
 - 🙏🏼 Hoping one day to learn a third language! 
 
 
