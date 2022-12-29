@@ -7,8 +7,7 @@
 - 🤟🏼 Bilingual 🇨🇴 🇺🇸
 
 ## 📈 Current Activities 
-- Open for Hire! 
-- 🧑🏻‍💻 Currently learning TypeScript.
+- 🧑🏻‍💻 Currently learning TypeScript & Angular!
 - 🙏🏼 Hoping one day to learn a third language! 
 
 
