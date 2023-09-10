@@ -8,7 +8,6 @@
 
 ## 📈 Current Activities 
 - 🧑🏻‍💻 Currently learning TypeScript
-- 🙏🏼 Hoping one day to learn a third language! 
 
 
 ## 📫 How to reach me:
