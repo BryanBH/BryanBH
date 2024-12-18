@@ -4,7 +4,7 @@
 ## :book: About Me!
 - 🎓 WIT Class of 2022
 - 💻 Full Stack Web Developer 
-- 🤟🏼 Bilingual 🇨🇴 🇺🇸
+
 
 ## 📈 Current Activities 
 - 🧑🏻‍💻 Currently learning TypeScript
